@@ -21,10 +21,10 @@ Hi, I'm a Flutter developer with a passion for creating high-quality cross-platf
 
 <!-- - [Flutter Fitness](https://github.com/username/repo): A fitness app that provides personalized workout routines and nutrition plans. -->
 <!-- - [Flutter E-Commerce](https://github.com/username/repo): An online shopping app with a sleek and intuitive user interface. -->
+- [Flutter TODO LIST APP](https://github.com/eoeefosa/simple-provider-example.git): A todo list app using provider package.It allow you create a task and strike the task when it is complete or remove the task completely
+- [Flutter Recipe app](https://github.com/eoeefosa/recipes.git): A flutter app that shows a list of imaginary recipes and their ingredient.
 
-- [Flutter Recipe app](https://github.com/eoeefosa/recipes.git):A flutter app that shows a list of imaginary recipes and their ingredient.
-
-- [Flutter Social](https://github.com/eoeefosa/Fooderlich-2.0.git):A social recipe app to see what friends are cooking and other food you like.
+- [Flutter Social](https://github.com/eoeefosa/Fooderlich-2.0.git): A social recipe app to see what friends are cooking and other food you like.
 <!-- - [Flutter Social](https://github.com/username/repo): A social media app for connecting with friends and family. -->
 
 ## Let's Connect
@@ -32,7 +32,7 @@ Hi, I'm a Flutter developer with a passion for creating high-quality cross-platf
 If you're interested in working together or just want to chat, feel free to reach out to me via email or connect with me on LinkedIn.
 
 Email: eoeefosa@gmail.com
-       devefosa@gmail.com
+      - devefosa@gmail.com
        
 LinkedIn: https://www.linkedin.com/in/efosa-osemwegie-1052941a0
 
