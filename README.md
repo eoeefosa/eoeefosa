@@ -42,6 +42,11 @@ Email: eoeefosa@gmail.com
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=OsemwegieEfosa1)
 <!-- https://twitter.com/OsemwegieEfosa1 -->
 
+
+### Github Stats
+
+[![Efosa's Github Stats](https://github-readme-stats.vercel.app/api?username=eoeefosa&count_private=true&theme=default&show_icons=true)](https://github.com/eoeefosa)
+
 <a title="Made with Fluent Design" href="https://github.com/bdlukaa/fluent_ui">
   <img
     src="https://img.shields.io/badge/fluent-design-blue?style=flat-square&color=gray&labelColor=0078D7"
