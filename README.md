@@ -7,7 +7,7 @@
 
 - # Flutter Developer
 
-Hi, I'm a Flutter developer with a passion for creating high-quality cross-platform mobile applications. I have experience in using the Dart programming language and the Flutter framework to build dynamic and visually appealing apps.
+Hi, I'm a Efosa a Nigerian Flutter developer with a passion for creating high-quality cross-platform mobile applications. I have experience in using the Dart programming language and the Flutter framework to build dynamic and visually appealing apps.
 
 ## Skills
 
