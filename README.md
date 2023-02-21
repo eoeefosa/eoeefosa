@@ -34,7 +34,11 @@ If you're interested in working together or just want to chat, feel free to reac
 Email: eoeefosa@gmail.com
       - devefosa@gmail.com
        
-LinkedIn: https://www.linkedin.com/in/efosa-osemwegie-1052941a0
+<!-- LinkedIn: https://www.linkedin.com/in/efosa-osemwegie-1052941a0 -->
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efosa-osemwegie-1052941a0)
 
 
 <a title="Made with Fluent Design" href="https://github.com/bdlukaa/fluent_ui">
