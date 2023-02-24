@@ -5,17 +5,12 @@
 
 
 
-- # Flutter Developer
-
-Hi, I'm a Efosa a Nigerian Flutter developer with a passion for creating high-quality cross-platform mobile applications. I have experience in using the Dart programming language and the Flutter framework to build dynamic and visually appealing apps.
-
-## Skills
-
-- Proficiency in Dart and Flutter development
-- Ability to integrate third-party libraries and APIs
-- Knowledge of best practices for designing and implementing clean and maintainable code
-- Understanding of mobile app architecture and performance optimization techniques
-- Familiarity with Git for version control and collaboration
+-<b>BIO</b><br>
+ I'm a Software Engineer based in Edo State, Nigeria.<br>
+⚙️ I use daily: Flutter, dart, git<br>
+🌱 Learning all about flutter.<br>
+🤔 I’m looking for help with crossplatform apps<br>
+💬 Ping me about Development,Graphic Design, Branding.<br>
 
 ## Featured Projects
 
