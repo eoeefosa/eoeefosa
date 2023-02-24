@@ -1,3 +1,7 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=green)  ![Followers](https://img.shields.io/github/followers/eoeefosa) ![Stars](https://img.shields.io/github/stars/eoeefosa?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+
+
 ### Hi there 👋
 
 <!--
