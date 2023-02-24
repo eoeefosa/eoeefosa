@@ -24,7 +24,7 @@
 
 ## Let's Connect
 
-If you're interested in working together or just want to chat, feel free to reach out to me via email or connect with me on LinkedIn.
+📫 How to reach me:
 
 Email: eoeefosa@gmail.com
       - devefosa@gmail.com
