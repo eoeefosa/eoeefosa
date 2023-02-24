@@ -28,31 +28,24 @@
 
 ## Let's Connect
 
-📫 How to reach me:
-
-Email: eoeefosa@gmail.com
+📫 How to reach me:Email: eoeefosa@gmail.com
       - devefosa@gmail.com
-       
 <!-- LinkedIn: https://www.linkedin.com/in/efosa-osemwegie-1052941a0 -->
-
-
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efosa-osemwegie-1052941a0)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=OsemwegieEfosa1)
 <!-- https://twitter.com/OsemwegieEfosa1 -->
 
 
 ### Github Stats
-<br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=eoeefosa&margin-w=8)](https://github.com/eoeefosa/github-profile-trophy)
-
 [![Efosa's Github Stats](https://github-readme-stats.vercel.app/api?username=eoeefosa&count_private=true&theme=default&show_icons=true)](https://github.com/eoeefosa)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eoeefosa&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eoeefosa&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<a title="Made with Fluent Design" href="https://github.com/bdlukaa/fluent_ui">
+<!-- <a title="Made with Fluent Design" href="https://github.com/bdlukaa/fluent_ui">
   <img
     src="https://img.shields.io/badge/fluent-design-blue?style=flat-square&color=gray&labelColor=0078D7"
   >
 </a>
+ -->
