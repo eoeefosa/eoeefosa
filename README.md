@@ -43,6 +43,8 @@ Email: eoeefosa@gmail.com
 
 
 ### Github Stats
+<br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=eoeefosa&margin-w=8)](https://github.com/eoeefosa/github-profile-trophy)
 
 [![Efosa's Github Stats](https://github-readme-stats.vercel.app/api?username=eoeefosa&count_private=true&theme=default&show_icons=true)](https://github.com/eoeefosa)
 
