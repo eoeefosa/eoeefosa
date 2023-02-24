@@ -9,7 +9,7 @@
 
 
 
--<b>BIO</b><br>
+<b>BIO</b><br>
  I'm a Software Engineer based in Edo State, Nigeria.<br>
 ⚙️ I use daily: Flutter, dart, git<br>
 🌱 Learning all about flutter.<br>
