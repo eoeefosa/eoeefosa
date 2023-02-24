@@ -14,7 +14,7 @@
 ⚙️ I use daily: Flutter, dart, git<br>
 🌱 Learning all about flutter.<br>
 🤔 I’m looking for help with crossplatform apps<br>
-💬 Ping me about Development,Graphic Design, Branding.<br>
+💬 Ping me about  android Development with flutter,ios Development with flutter, windows app Development with flutter,mac Os app Development with flutter.<br>
 
 ## Featured Projects
 
