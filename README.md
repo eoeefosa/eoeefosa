@@ -47,6 +47,9 @@ Email: eoeefosa@gmail.com
 [![trophy](https://github-profile-trophy.vercel.app/?username=eoeefosa&margin-w=8)](https://github.com/eoeefosa/github-profile-trophy)
 
 [![Efosa's Github Stats](https://github-readme-stats.vercel.app/api?username=eoeefosa&count_private=true&theme=default&show_icons=true)](https://github.com/eoeefosa)
+![](https://github-readme-streak-stats.herokuapp.com/?user=eoeefosa&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eoeefosa&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <a title="Made with Fluent Design" href="https://github.com/bdlukaa/fluent_ui">
   <img
