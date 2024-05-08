@@ -13,10 +13,8 @@
  I'm a Software Engineer based in Edo State, Nigeria.<br>
 ⚙️ I use daily: Flutter, dart, git<br>
 🌱 I am a Full Stack web developer using Vuejs, express both in typescript <br>
-🌱 Currently working on http://examwiz.vercel.app an AI powered webapp for past questions and interactive quiz.
-
-🤔 I’m looking for help with crossplatform apps and Websites<br>
-💬 Ping me about  android Development with flutter,ios Development with flutter, windows app Development with flutter,mac Os app Development with flutter.<br>
+🤔 Currently working on http://examwiz.vercel.app an AI powered webapp for past questions and interactive quiz.
+💬 Ping me about Vuejs, pinia, javascript, Express, shorebirdcli, android Development with flutter,ios Development with flutter, windows app Development with flutter,mac Os app Development with flutter.<br>
 
 <!-- ## Featured Projects
 
