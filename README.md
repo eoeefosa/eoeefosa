@@ -25,7 +25,7 @@
 <!-- - [Flutter Recipe app](https://github.com/eoeefosa/recipes.git): A flutter app that shows a list of imaginary recipes and their ingredient. -->
 
 <!-- - [Flutter Social](https://github.com/eoeefosa/Fooderlich-2.0.git): A social recipe app to see what friends are cooking and other food you like. -->
-<!-- - [Flutter Social](https://github.com/username/repo): A social media app for connecting with friends and family. --> -->
+<!-- - [Flutter Social](https://github.com/username/repo): A social media app for connecting with friends and family. --> 
 
 ## Let's Connect
 
