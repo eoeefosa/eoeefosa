@@ -37,6 +37,7 @@ check out some of my project on https://www.tiktok.com/@fullstackdev456 <br>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=OsemwegieEfosa1)
 <!-- https://twitter.com/OsemwegieEfosa1 -->
 
+ Express and typescript setup guide https://github.com/eoeefosa/typescript-setup
 
 <!-- ### Github Stats -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=eoeefosa&margin-w=8)](https://github.com/eoeefosa/github-profile-trophy) -->
