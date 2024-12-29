@@ -11,7 +11,7 @@
 
 <b>BIO</b><br>
  I'm a Software Engineer based in Edo State, Nigeria.<br>
-⚙️ I use daily: Flutter, dart, git, vue, Typescript, Nuxt<br>
+⚙️ I frequently use: Flutter, Nextjs, Expressjs,Fastapi, dart, git,  Typescript<br>
 check out some of my project on https://www.tiktok.com/@fullstackdev456 <br>
 🌱 I am a Full Stack web developer using Vuejs, express both in typescript <br>
 🤔 Currently working on https://examwiz-render.onrender.com an AI powered webapp for past questions and interactive quiz. <br>
