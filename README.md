@@ -13,7 +13,7 @@
  I'm a Software Engineer based in Edo State, Nigeria.<br>
 ⚙️ I frequently use: Flutter, Nextjs, Expressjs,Fastapi, dart, git,  Typescript<br>
 ⚙️ Check out some of my project on https://www.tiktok.com/@fullstackdev456 <br>
-🌱 I am a Full Stack web developer using Vuejs, express both in typescript <br>
+🌱 I am a Full Stack web developer using Nextjs, Flutter, Expressjs and Fastapi <br>
 🤔 Currently working on https://examwiz-render.onrender.com an AI powered webapp for past questions and interactive quiz. <br>
 💬 Ping me about Flutter React, Nextjs, fastapi, ExpressJs, Typescript, Javascript,  Mongodb, Python,<br>
 
