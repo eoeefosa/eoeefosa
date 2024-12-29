@@ -15,7 +15,7 @@
 check out some of my project on https://www.tiktok.com/@fullstackdev456 <br>
 🌱 I am a Full Stack web developer using Vuejs, express both in typescript <br>
 🤔 Currently working on https://examwiz-render.onrender.com an AI powered webapp for past questions and interactive quiz. <br>
-💬 Ping me about Vuejs, pinia, Nuxt, Typescript, Javascript, ExpressJs, Mongodb, MEVN Stack, Python, React, Nextjs, shorebirdcli, android Development with flutter,ios Development with flutter, windows app Development with flutter, mac Os app Development with flutter.<br>
+💬 Ping me about Flutter React, Nextjs, fastapi, ExpressJs, Typescript, Javascript,  Mongodb, Python,<br>
 ⚙️ I Mostly use the MEVN stack for web development but also a bit competent with the MERN stack
 
 <!-- ## Featured Projects
@@ -38,6 +38,8 @@ check out some of my project on https://www.tiktok.com/@fullstackdev456 <br>
 <!-- https://twitter.com/OsemwegieEfosa1 -->
 
  Express and typescript setup guide https://github.com/eoeefosa/typescript-setup
+
+ Clean architecture in express guide https://github.com/eoeefosa/clean-architecture-express
 
 <!-- ### Github Stats -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=eoeefosa&margin-w=8)](https://github.com/eoeefosa/github-profile-trophy) -->
